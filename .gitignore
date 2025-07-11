@@ -1,0 +1,11 @@
+.env 
+law_index/
+multi_agent/
+venv/
+real_time_research_agent.py
+multi_agent.py
+main.py
+ingest.py
+criminalProcedure.pdf
+civilProcedure.pdf
+lawdata/
