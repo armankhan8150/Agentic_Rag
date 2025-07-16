@@ -1,0 +1,5 @@
+crewai
+langchain_community
+langchain_openai
+python-dotenv
+faiss-cpu # or faiss-gpu if on GPU
